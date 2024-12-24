@@ -7,14 +7,14 @@
 ### 1. Go get
 
 ```shell
-go get github.com/archine/redis-starter@v1.0.0
+go get github.com/archine/redis-starter@v1.0.1
 ```
 
 ### 2、Go Mod
 
 ```shell
 # Add the following line to your go.mod file
-github.com/archine/redis-starter v1.0.0
+github.com/archine/redis-starter v1.0.1
 
 # Execute the following command in your project directory
 go mod tidy
